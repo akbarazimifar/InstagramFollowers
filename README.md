@@ -31,6 +31,10 @@ https://user-images.githubusercontent.com/94370774/209472156-d9f5d5d8-97b7-44cb-
 | Suntik Followers | ✅ |
 | Suntik Like | ✅ |
 | Suntik UnFollowers | ✅ |
+| Crack Instagram | ✅ |
+| Spam OTP | ✅ |
+| Crack Facebook | ✅ |
+
 
 ## Cara Mendapatkan Cookies FB
 
@@ -59,6 +63,7 @@ apt install python && git clone https://github.com/tahaluindo/InstagramFollowers
 
 - kalian juga bisa pindah tools dengan ketik berikut
 - python facebook.py : untuk tools facebook gambar nomor 2 😅
+- python crack.py : untuk akses tools crack instagram dan spam otp
 - git pull : untuk update terbaru script saya
 
 # Jika Error Modules Installer
@@ -84,4 +89,4 @@ When you get expiration error on get_instagram_followers.py or get_instagram_lik
 Although you change your username and still get expiration error, please try VPN and start the bot again. For example: Hotspot Shield Free VPN program.
 
 ## Donasi
-<a href="https://saweria.co/anonsecteaminc" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Tahaluindo" height="41" width="174"></a>
+<a href="https://saweria.co/anonsecteam" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Tahaluindo" height="41" width="174"></a>
