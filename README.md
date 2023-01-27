@@ -41,6 +41,7 @@ https://user-images.githubusercontent.com/94370774/209472156-d9f5d5d8-97b7-44cb-
 1. Install Kiwi Browser [DISINI](https://kiwi-browser.id.uptodown.com/android).
 2. Setelah Install Pencet Ini [CLICK](chrome://extensions/)
 3. Install Ini Get Cookies [DISINI](https://chrome.google.com/webstore/detail/get-token-cookie/naciaagbkifhpnoodlkhbejjldaiffcm)
+4. Need Proxy? [CLICK ME](https://github.com/tahaluindo/Free-Proxies)
 
 # Installer Script
 
