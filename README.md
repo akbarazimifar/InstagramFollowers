@@ -2,6 +2,11 @@
 <a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/Instagram-Followers-red.svg?style=for-the-badge&logo=instagram"></a>
 <a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/SUNTIK-FOLLOWERS-white.svg?style=for-the-badge&logo=github"></a>
 </p>
+</details>
+
+<details>
+ <summary><b>:hammer_and_wrench:</b>UPDATE</summary>
+
 <p align="center"> <img src="https://raw.githubusercontent.com/tahaluindo/InstagramFollowers/main/img/IMG_20221225_204915.jpg"/></p>
 
 [CONTOH DEMO DISINI](https://github.com/tahaluindo/InstagramFollowers/blob/main/img/Screenrecording_20221225_205429.mp4)
@@ -42,6 +47,12 @@ https://user-images.githubusercontent.com/94370774/209472156-d9f5d5d8-97b7-44cb-
 2. Setelah Install Pencet Ini [CLICK](chrome://extensions/)
 3. Install Ini Get Cookies [DISINI](https://chrome.google.com/webstore/detail/get-token-cookie/naciaagbkifhpnoodlkhbejjldaiffcm)
 4. Need Proxy? [CLICK ME](https://github.com/tahaluindo/Free-Proxies)
+
+## Cara Mendapatkan Cookies Instagram
+
+1. Install Di Kiwi [DISINI](https://chrome.google.com/webstore/detail/cookiedough/hacigcgfiefikmkmmmncaiaijoffndpl)
+2. Login Akun Mu [DISINI](https://instagram.com/login)
+3. Setelah Login Pencet Titik Tiga Di Pojok Kanan Atas Scrool Ke Bawah Sampai Nemu [Cookiedough]
 
 # Installer Script
 
