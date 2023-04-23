@@ -2,6 +2,10 @@
 <a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/Instagram-Followers-red.svg?style=for-the-badge&logo=instagram"></a>
 <a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/SUNTIK-FOLLOWERS-white.svg?style=for-the-badge&logo=github"></a>
 </p>
+
+> **Warning**
+> InstagramFollowers is under active development but is currently very much beta software. This means that there may be stability or security issues and it is not yet recommended for use in active production environments! Also please be aware that we are not currently strictly following, and there may be breaking changes at any time. Be careful and make sure you read changelogs before updates!
+
 </details>
 
 <details>
